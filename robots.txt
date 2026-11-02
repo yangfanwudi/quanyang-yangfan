@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quanyang.vocabfan.online/sitemap.xml
